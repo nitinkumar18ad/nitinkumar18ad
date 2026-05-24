@@ -1,9 +1,8 @@
-## Hi there 👋
 # Hi, I'm nitinkumar18ad
 
 ## My GitPet
 
-![GitPet companion](https://your-public-domain.com/api/share/pet.svg?username=YOUR_USERNAME&petId=dragon)
+![GitPet companion](https://your-public-domain.com/api/share/pet.svg?username=nitinkumar18ad&petId=dragon)
 
 [Open full GitPet app](https://your-app-url.com)
 <!--
