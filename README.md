@@ -1,5 +1,11 @@
 ## Hi there 👋
+# Hi, I'm nitinkumar18ad
 
+## My GitPet
+
+![GitPet companion](https://your-public-domain.com/api/share/pet.svg?username=YOUR_USERNAME&petId=dragon)
+
+[Open full GitPet app](https://your-app-url.com)
 <!--
 **nitinkumar18ad/nitinkumar18ad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
