@@ -2,9 +2,12 @@
 
 ## My GitPet
 
-![GitPet companion](https://your-public-domain.com/api/share/pet.svg?username=nitinkumar18ad&petId=dragon)
+<!--![GitPet companion](https://your-public-domain.com/api/share/pet.svg?username=nitinkumar18ad&petId=dragon)  
 
 [Open full GitPet app](https://your-app-url.com)
+-->
+
+![GitPet companion](./pet.gif)
 <!--
 **nitinkumar18ad/nitinkumar18ad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
