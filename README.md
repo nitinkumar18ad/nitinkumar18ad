@@ -22,3 +22,25 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+# Hi, I'm nitinkumar18ad
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nitinkumar18ad&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://streak-stats.demolab.com?user=nitinkumar18ad&theme=tokyonight&hide_border=true" height="170" />
+</p>
+
+## Skills
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,js,react,nodejs,express,mongodb,mysql,git,github,vscode&theme=dark" />
+</p>
+
+## My GitPet
+
+<p align="center">
+  <img src="./pet.gif" alt="GitPet companion" width="420" />
+</p>
