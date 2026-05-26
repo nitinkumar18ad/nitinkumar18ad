@@ -1,6 +1,4 @@
 # Hi, I'm nitinkumar18ad
-
-## My GitPet
 <!--
 ![GitPet companion](https://your-public-domain.com/api/share/pet.svg?username=nitinkumar18ad&petId=dragon)  
 ![GitPet companion](./pet.gif)
@@ -15,9 +13,6 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-# GitHub Profile README Template
 
 # Hi, I'm Nitin Kumar
 
@@ -52,7 +47,7 @@
 ## Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,react,nodejs,express,mongodb,mysql,git,github,vscode&theme=dark" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,react,nodejs,express,mongodb,mysql,git,github,vscode&theme=dark" alt="Skills" />
 </p>
 
 ---
@@ -86,17 +81,8 @@
 
 ## Before you save it
 
-- Replace `YOUR-LINKEDIN` with your real LinkedIn profile path
-- Replace `YOUR_EMAIL@example.com` with your real email or remove that badge
-- Make sure `pet.gif` exists in the root of your profile repo
-- Change featured repo links if you want different projects
-
-## What this includes
-
-- `github-readme-stats` for profile stats and top languages
-- `github-readme-streak-stats` for current streak, longest streak, and total contributions
-- `skillicons.dev` for skills
-- `./pet.gif` for your animated pet
+- Replace (https://www.linkedin.com/in/nitin-kumar-882743280/) with your real LinkedIn profile path
+- Replace nitinkumar18ad@gmail.com with your real email or remove that badge
 
 
 
