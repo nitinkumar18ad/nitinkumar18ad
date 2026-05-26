@@ -1,115 +1,13 @@
-# Hi, I'm Nitin Kumar
-
-<p>
-  Developer focused on building useful AI, web, and full-stack projects.
-</p>
-
-<p>
-  <a href="[https://www.linkedin.com/in/YOUR-LINKEDIN/](https://www.linkedin.com/in/nitin-kumar-882743280/)">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:nitinkumar18ad@gmail">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-</p>
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nitinkumar18ad&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170" alt="GitHub stats" />
-  <img src="https://streak-stats.demolab.com?user=nitinkumar18ad&theme=tokyonight&hide_border=true" height="170" alt="GitHub streak stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitinkumar18ad&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top languages" />
-</p>
-
----
-
-## Skills
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,react,nodejs,express,mongodb,mysql,git,github,vscode&theme=dark" alt="Skills" />
-</p>
-
----
-
-## ANI
-
-<p align="center">
-  <img src="./pet.gif" alt="GitPet companion" width="420" />
-</p>
-
-<p align="center">
-  Animated companion from my GitPet project.
-</p>
-
----
-
-## Featured Work
-
-- [AI-HealthCare](https://github.com/nitinkumar18ad/AI-HealthCare)
-- [AI-Skin-Disease-Detector](https://github.com/nitinkumar18ad/AI-Skin-Disease-Detector)
-- [Password-Manager](https://github.com/nitinkumar18ad/Password-Manager)
-
----
-
-## Currently Working On
-
-- Building practical AI and full-stack applications
-- Improving GitHub profile presence and project quality
-- Learning better deployment and production workflows
-
-
-
-- (https://www.linkedin.com/in/nitin-kumar-882743280/)
-- nitinkumar18ad@gmail.com with your real email
-
-
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nitinkumar18ad&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
-  <img src="https://streak-stats.demolab.com?user=nitinkumar18ad&theme=tokyonight&hide_border=true" height="170" />
-</p>
-
-## Skills
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,react,nodejs,express,mongodb,mysql,git,github,vscode&theme=dark" />
-</p>
-
-## My GitPet
-
-<p align="center">
-  <img src="./pet.gif" alt="GitPet companion" width="420" />
-</p>
-
-
-
-
-
-
-
-
-
-
-
 <div align="center">
 
-<!-- Animated header wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Nitin%20Kumar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%7C%20Full-Stack%20%7C%20Builder&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Nitin%20Kumar&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20%E2%80%A2%20Full-Stack%20%E2%80%A2%20Builder&descAlignY=58&descSize=20" width="100%"/>
 
-<!-- Typing animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=5B8AF5&center=true&vCenter=true&width=600&lines=Building+practical+AI+applications+%F0%9F%A4%96;Full-stack+developer+%F0%9F%9B%A0%EF%B8%8F;Exploring+LangGraph+%26+MCP+servers+%F0%9F%94%97;Shipping+side+projects+one+commit+at+a+time+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=5B8AF5&center=true&vCenter=true&width=650&lines=Building+practical+AI+applications+%F0%9F%A4%96;Full-stack+developer+%F0%9F%9B%A0%EF%B8%8F;Exploring+LangGraph+%26+MCP+servers+%F0%9F%94%97;Shipping+side+projects+one+commit+at+a+time+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
-<br/>
+<br/><br/>
 
-<!-- Social badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nitin-kumar-882743280/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nitinkumar18ad@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nitinkumar18ad)
@@ -123,12 +21,12 @@
 
 ```python
 nitin = {
-    "name"       : "Nitin Kumar",
-    "focus"      : ["Generative AI", "Full-Stack Development", "AI Agents"],
-    "stack"      : ["Python", "FastAPI", "LangGraph", "React", "MongoDB"],
-    "currently"  : "Building practical AI & full-stack applications",
-    "learning"   : ["MCP servers", "LangChain agents", "Production deployment"],
-    "fun_fact"   : "I let AI debug my AI projects 🤖"
+    "name"      : "Nitin Kumar",
+    "focus"     : ["Generative AI", "Full-Stack Development", "AI Agents"],
+    "stack"     : ["Python", "FastAPI", "LangGraph", "React", "MongoDB"],
+    "currently" : "Building practical AI & full-stack applications",
+    "learning"  : ["MCP servers", "LangChain agents", "Production deployment"],
+    "fun_fact"  : "I let AI debug my AI projects 🤖"
 }
 ```
 
@@ -141,8 +39,18 @@ nitin = {
 <img src="https://github-readme-stats.vercel.app/api?username=nitinkumar18ad&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" height="165"/>
 <img src="https://streak-stats.demolab.com?user=nitinkumar18ad&theme=tokyonight&hide_border=true" height="165"/>
 
+<br/>
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitinkumar18ad&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="150"/>
 
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nitinkumar18ad&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 </div>
 
 ---
@@ -159,6 +67,7 @@ nitin = {
 **AI / ML**
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
@@ -212,25 +121,12 @@ nitin = {
 
 ---
 
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nitinkumar18ad&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
-</div>
-
----
-
 <div align="center">
 
-<!-- Footer wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
 
 *"Any sufficiently advanced technology is indistinguishable from magic." — Arthur C. Clarke*
 
 ⭐ **If you find my work helpful, consider starring a repo!**
 
 </div>
-
-
-
-
