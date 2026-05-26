@@ -7,8 +7,9 @@
 [Open full GitPet app](https://your-app-url.com)
 -->
 
-<img src="./pet.gif" alt="GitPet companion" width="200" />
 <!--
+<img src="./pet.gif" alt="GitPet companion" width="200" />
+
 **nitinkumar18ad/nitinkumar18ad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -23,10 +24,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-# Hi, I'm nitinkumar18ad
-
-## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nitinkumar18ad&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
