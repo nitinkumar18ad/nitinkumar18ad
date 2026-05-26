@@ -1,19 +1,3 @@
-# Hi, I'm nitinkumar18ad
-<!--
-![GitPet companion](https://your-public-domain.com/api/share/pet.svg?username=nitinkumar18ad&petId=dragon)  
-![GitPet companion](./pet.gif)
-[Open full GitPet app](https://your-app-url.com)
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 # Hi, I'm Nitin Kumar
 
 <p>
@@ -21,10 +5,10 @@
 </p>
 
 <p>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
+  <a href="[https://www.linkedin.com/in/YOUR-LINKEDIN/](https://www.linkedin.com/in/nitin-kumar-882743280/)">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:YOUR_EMAIL@example.com">
+  <a href="mailto:nitinkumar18ad@gmail">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
@@ -52,7 +36,7 @@
 
 ---
 
-## My GitPet
+## ANI
 
 <p align="center">
   <img src="./pet.gif" alt="GitPet companion" width="420" />
@@ -79,15 +63,9 @@
 - Learning better deployment and production workflows
 
 
-## Before you save it
 
-- Replace (https://www.linkedin.com/in/nitin-kumar-882743280/) with your real LinkedIn profile path
-- Replace nitinkumar18ad@gmail.com with your real email or remove that badge
-
-
-
-
-
+- (https://www.linkedin.com/in/nitin-kumar-882743280/)
+- nitinkumar18ad@gmail.com with your real email
 
 
 
