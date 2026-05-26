@@ -57,17 +57,15 @@ me.say_hi()
 
 ---
 
-## 🐍 Snake eating my contributions
+## 🎮 PAC-MAN eating my contributions
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nitinkumar18ad/nitinkumar18ad/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nitinkumar18ad/nitinkumar18ad/output/github-contribution-grid-snake.svg"/>
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nitinkumar18ad/nitinkumar18ad/output/github-contribution-grid-snake.svg" width="100%"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nitinkumar18ad/nitinkumar18ad/output/pacman-contribution-graph-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nitinkumar18ad/nitinkumar18ad/output/pacman-contribution-graph.svg"/>
+    <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/nitinkumar18ad/nitinkumar18ad/output/pacman-contribution-graph.svg" width="100%"/>
   </picture>
 </div>
-
-> ⚙️ **Setup:** Create `.github/workflows/snake.yml` in this repo — see [setup guide](#-snake-setup-guide) below.
 
 ---
 
@@ -130,6 +128,7 @@ me.say_hi()
 
 ---
 
+<!--
 ## 🐾 ANI — My GitPet Companion
 
 <div align="center">
@@ -137,7 +136,7 @@ me.say_hi()
   <br/>
   <sub>Animated companion from the <a href="https://github.com/nitinkumar18ad">GitPet</a> project</sub>
 </div>
-
+-->
 ---
 
 ## 🎯 Currently Working On
