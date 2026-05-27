@@ -1,6 +1,9 @@
 <div align="center">
 
+<!--
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Nitin%20Kumar&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20Engineer%20%E2%80%A2%20Full-Stack%20Dev%20%E2%80%A2%20Builder&descAlignY=57&descSize=18" width="100%"/>
+
+-->
 
 <!-- 🌊 OCEAN TOP -->
 <img src="./ocean-animation.svg" alt="Ocean wave animation" width="100%"/>
@@ -51,7 +54,7 @@ me.say_hi()
 <!-- Stats on left, 3D Calendar replacing streak on right -->
 <img src="https://github-readme-stats.vercel.app/api?username=nitinkumar18ad&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" height="170"/>
 &nbsp;&nbsp;
-<img src="./profile-3d-contrib/profile-gitblock.svg" alt="3D Contribution Calendar" height="270"/>
+<img src="./profile-3d-contrib/profile-gitblock.svg" alt="3D Contribution Calendar" height="350"/>
 
 <br/>
 
@@ -118,18 +121,6 @@ me.say_hi()
 
 </div>
 
----
-
-## 🐾 ANI — My GitPet Companion
-
-<div align="center">
-  <img src="./pet.gif" alt="ANI GitPet" width="380"/>
-  <br/>
-  <sub>Animated companion from the <a href="https://github.com/nitinkumar18ad">GitPet</a> project</sub>
-</div>
-
----
-
 ## 🎯 Currently Working On
 
 | 🔧 What | 📌 Why |
@@ -160,8 +151,10 @@ me.say_hi()
 </div>
 
 <div align="center">
-
+  
+<!--
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+ -->
 
 *"Any sufficiently advanced technology is indistinguishable from magic." — Arthur C. Clarke*
 
