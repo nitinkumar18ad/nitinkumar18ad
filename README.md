@@ -51,7 +51,7 @@ me.say_hi()
 <!-- Stats on left, 3D Calendar replacing streak on right -->
 <img src="https://github-readme-stats.vercel.app/api?username=nitinkumar18ad&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" height="170"/>
 &nbsp;&nbsp;
-<img src="./profile-3d-contrib/profile-gitblock.svg" alt="3D Contribution Calendar" height="170"/>
+<img src="./profile-3d-contrib/profile-gitblock.svg" alt="3D Contribution Calendar" height="270"/>
 
 <br/>
 
