@@ -122,18 +122,6 @@ me.say_hi()
 
 </div>
 
----
-
-## 🐾 ANI — My GitPet Companion
-
-<div align="center">
-  <img src="./pet.gif" alt="ANI GitPet" width="380"/>
-  <br/>
-  <sub>Animated companion from the <a href="https://github.com/nitinkumar18ad">GitPet</a> project</sub>
-</div>
-
----
-
 ## 🎯 Currently Working On
 
 | 🔧 What | 📌 Why |
