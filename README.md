@@ -57,14 +57,10 @@ me.say_hi()
 
 ---
 
-## 🎮 PAC-MAN eating my contributions
+## 🌊 Ocean of Contributions
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nitinkumar18ad/nitinkumar18ad/output/pacman-contribution-graph-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nitinkumar18ad/nitinkumar18ad/output/pacman-contribution-graph.svg"/>
-    <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/nitinkumar18ad/nitinkumar18ad/output/pacman-contribution-graph.svg" width="100%"/>
-  </picture>
+  <img src="./ocean-animation.svg" alt="Ocean wave animation" width="100%"/>
 </div>
 
 ---
@@ -128,7 +124,6 @@ me.say_hi()
 
 ---
 
-<!--
 ## 🐾 ANI — My GitPet Companion
 
 <div align="center">
@@ -136,7 +131,7 @@ me.say_hi()
   <br/>
   <sub>Animated companion from the <a href="https://github.com/nitinkumar18ad">GitPet</a> project</sub>
 </div>
--->
+
 ---
 
 ## 🎯 Currently Working On
@@ -158,5 +153,19 @@ me.say_hi()
 
 [![LinkedIn](https://img.shields.io/badge/Let's_connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nitin-kumar-882743280/)
 [![Gmail](https://img.shields.io/badge/Drop_me_an_email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nitinkumar18ad@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+
+*"Any sufficiently advanced technology is indistinguishable from magic." — Arthur C. Clarke*
+
+<br/>
+
+⭐ **If you find my work helpful, drop a star on a repo — it means a lot!**
 
 </div>
