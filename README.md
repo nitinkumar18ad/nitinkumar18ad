@@ -2,6 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Nitin%20Kumar&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20Engineer%20%E2%80%A2%20Full-Stack%20Dev%20%E2%80%A2%20Builder&descAlignY=57&descSize=18" width="100%"/>
 
+<!-- 🌊 OCEAN TOP -->
+<img src="./ocean-animation.svg" alt="Ocean wave animation" width="100%"/>
+
 <br/>
 
 <a href="https://git.io/typing-svg">
@@ -45,22 +48,15 @@ me.say_hi()
 
 <div align="center">
 
+<!-- Stats on left, 3D Calendar replacing streak on right -->
 <img src="https://github-readme-stats.vercel.app/api?username=nitinkumar18ad&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" height="170"/>
 &nbsp;&nbsp;
-<img src="https://streak-stats.demolab.com?user=nitinkumar18ad&theme=tokyonight&hide_border=true" height="170"/>
+<img src="./profile-3d-contrib/profile-gitblock.svg" alt="3D Contribution Calendar" height="170"/>
 
 <br/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitinkumar18ad&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="150"/>
 
-</div>
-
----
-
-## 🌊 Ocean of Contributions
-
-<div align="center">
-  <img src="./ocean-animation.svg" alt="Ocean wave animation" width="100%"/>
 </div>
 
 ---
@@ -122,6 +118,18 @@ me.say_hi()
 
 </div>
 
+---
+
+## 🐾 ANI — My GitPet Companion
+
+<div align="center">
+  <img src="./pet.gif" alt="ANI GitPet" width="380"/>
+  <br/>
+  <sub>Animated companion from the <a href="https://github.com/nitinkumar18ad">GitPet</a> project</sub>
+</div>
+
+---
+
 ## 🎯 Currently Working On
 
 | 🔧 What | 📌 Why |
@@ -145,6 +153,11 @@ me.say_hi()
 </div>
 
 ---
+
+<!-- 🌊 OCEAN BOTTOM -->
+<div align="center">
+  <img src="./ocean-animation.svg" alt="Ocean wave animation" width="100%"/>
+</div>
 
 <div align="center">
 
