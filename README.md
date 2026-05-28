@@ -1,9 +1,6 @@
 <div align="center">
 
-<!--
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Nitin%20Kumar&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20Engineer%20%E2%80%A2%20Full-Stack%20Dev%20%E2%80%A2%20Builder&descAlignY=57&descSize=18" width="100%"/>
-
--->
 
 <!-- 🌊 OCEAN TOP -->
 <img src="./ocean-animation.svg" alt="Ocean wave animation" width="100%"/>
@@ -51,15 +48,22 @@ me.say_hi()
 
 <div align="center">
 
-<!-- Stats on left, 3D Calendar replacing streak on right -->
 <img src="https://github-readme-stats.vercel.app/api?username=nitinkumar18ad&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" height="170"/>
 &nbsp;&nbsp;
-<img src="./profile-3d-contrib/profile-gitblock.svg" alt="3D Contribution Calendar" height="350"/>
+<img src="https://streak-stats.demolab.com?user=nitinkumar18ad&theme=tokyonight&hide_border=true" height="170"/>
 
 <br/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitinkumar18ad&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="150"/>
 
+</div>
+
+---
+
+## 🏙️ 3D Contribution Calendar
+
+<div align="center">
+  <img src="./profile-3d-contrib/profile-gitblock.svg" alt="3D Contribution Calendar" width="100%"/>
 </div>
 
 ---
@@ -115,11 +119,24 @@ me.say_hi()
 
 <div align="center">
 
-[![AI-HealthCare](https://github-readme-stats.vercel.app/api/pin/?username=nitinkumar18ad&repo=AI-HealthCare&theme=tokyonight&hide_border=true)](https://github.com/nitinkumar18ad/AI-HealthCare)
-[![AI-Skin-Disease-Detector](https://github-readme-stats.vercel.app/api/pin/?username=nitinkumar18ad&repo=AI-Skin-Disease-Detector&theme=tokyonight&hide_border=true)](https://github.com/nitinkumar18ad/AI-Skin-Disease-Detector)
-[![Password-Manager](https://github-readme-stats.vercel.app/api/pin/?username=nitinkumar18ad&repo=Password-Manager&theme=tokyonight&hide_border=true)](https://github.com/nitinkumar18ad/Password-Manager)
+| 🏥 [AI-HealthCare](https://github.com/nitinkumar18ad/AI-HealthCare) | 🔬 [AI-Skin-Disease-Detector](https://github.com/nitinkumar18ad/AI-Skin-Disease-Detector) | 🔐 [Password-Manager](https://github.com/nitinkumar18ad/Password-Manager) |
+|:---:|:---:|:---:|
+| AI-powered healthcare assistant using FastAPI & LLMs | Computer vision model to detect skin diseases from images | Secure encrypted password storage & retrieval |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![CV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) |
 
 </div>
+
+---
+
+## 🐾 ANI — My GitPet Companion
+
+<div align="center">
+  <img src="./pet.gif" alt="ANI GitPet" width="380"/>
+  <br/>
+  <sub>Animated companion from the <a href="https://github.com/nitinkumar18ad">GitPet</a> project</sub>
+</div>
+
+---
 
 ## 🎯 Currently Working On
 
@@ -151,10 +168,8 @@ me.say_hi()
 </div>
 
 <div align="center">
-  
-<!--
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
- -->
 
 *"Any sufficiently advanced technology is indistinguishable from magic." — Arthur C. Clarke*
 
