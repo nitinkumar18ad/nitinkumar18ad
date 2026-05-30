@@ -1,11 +1,11 @@
 <div align="center">
 
- <img src="./ocean-animation.svg" alt="Ocean wave animation"&height=200&section=header&text=Nitin%20Kumar&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20Engineer%20%E2%80%A2%20Full-Stack%20Dev%20%E2%80%A2%20Builder&descAlignY=57&descSize=18" width="100%"/>
+ <section=header&text=Nitin%20Kumar&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20Engineer%20%E2%80%A2%20Full-Stack%20Dev%20%E2%80%A2%20Builder&descAlignY=57&descSize=18" width="100%"/>
 
 
-<!-- 🌊 OCEAN TOP 
+🌊 OCEAN TOP 
 <img src="./ocean-animation.svg" alt="Ocean wave animation" width="100%"/>
--->
+
 
 <br/>
 
