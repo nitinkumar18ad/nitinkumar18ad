@@ -50,9 +50,9 @@ me.say_hi()
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=nitinkumar18ad&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=nitinkumar18ad&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" height="270"/>
 &nbsp;&nbsp;
-<img src="https://streak-stats.demolab.com?user=nitinkumar18ad&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://streak-stats.demolab.com?user=nitinkumar18ad&theme=tokyonight&hide_border=true" height="270"/>
 
 <br/>
 
