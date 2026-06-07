@@ -46,17 +46,24 @@ me.say_hi()
 
 ## 📊 GitHub Stats
 
-<div align="center">
+## 📊 GitHub Analytics
 
-<img src="https://github-readme-stats.vercel.app/api?username=nitinkumar18ad&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" height="270"/>
-&nbsp;&nbsp;
-<img src="https://streak-stats.demolab.com?user=nitinkumar18ad&theme=tokyonight&hide_border=true" height="270"/>
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=nitinkumar18ad&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=nitinkumar18ad&theme=radical&hide_border=true" />
+</p>
 
-<br/>
+<p align="center">
+  <img width="58%" src="https://github-readme-activity-graph.vercel.app/graph?username=nitinkumar18ad&theme=react-dark&hide_border=true&area=true" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitinkumar18ad&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="150"/>
+<p align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitinkumar18ad&layout=compact&theme=radical&hide_border=true" />
+</p>
 
-</div>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nitinkumar18ad&theme=radical" />
+</p>
 
 ---
 
