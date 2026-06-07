@@ -73,7 +73,9 @@ me.say_hi()
 </div>
 
 ---
-
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nitinkumar18ad&theme=radical&no-frame=true&margin-w=10&margin-h=10" />
+</p>
 ---
 
 ## 🛠️ Tech Stack
