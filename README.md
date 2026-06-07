@@ -44,7 +44,6 @@ me.say_hi()
 
 ---
 
-## 📊 GitHub Stats
 
 ## 📊 GitHub Analytics
 
@@ -74,12 +73,6 @@ me.say_hi()
 </div>
 
 ---
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nitinkumar18ad&theme=tokyo-night&hide_border=true&area=true&area_color=5b8af5" width="100%"/>
-</div>
 
 ---
 
